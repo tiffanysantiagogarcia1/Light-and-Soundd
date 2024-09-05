@@ -39,7 +39,7 @@ Add your screen recordings for specified implemented features here:
 ![winning screen recording] (https://www.loom.com/share/8c258d5cf93c4d7680df716a0a67f01e?sid=51973afb-0b7c-41e3-afd2-8a4f610e6dee)
 ## Interview Recording URL Link
 
-[My 5-minute Interview Recording]([https://www.loom.com/share/4daee2040b244d18b3718ec4fadf605d?sid=2cd9b4ef-2e8d-4456-892e-b026f8f9a113]
+
 
 
 ## License
